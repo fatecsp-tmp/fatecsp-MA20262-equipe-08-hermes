@@ -1,0 +1,11 @@
+MA2026-projeto-pratico/
+|-- MA2026-entrega-parcial/
+|   |-- 01-excel/ # Planilha .xlsx tratada e auditada
+|   |-- 02-powerquery/ # Scripts/evidencias de tratamento Power Query
+|   |-- 03-powerpivot/ # Definicao do modelo de dados e medidas DAX iniciais
+|   ‘-- 04-documentacao/ # Relatorio Parcial e Slides da Apresentacao 1
+‘-- MA2026-entrega-final/
+    |-- 01-vba/ # Modulos exportados (.bas) ou planilha .xlsm
+    |-- 02-bancodedados-sql/ # Scripts SQL (.sql) com DDL e DML
+    |-- 03-api-web/ # Documentacao de conexoes API/Web Scraping
+    ‘-- 04-powerbi-dashboard/ # Arquivo .pbix, Relatorio Final e Slides
